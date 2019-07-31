@@ -26,21 +26,6 @@
   <string name="unknown">Tundmatu</string>
   <string name="mobile_data_warning_title">Mobiilse andmeside hoiatus</string>
   <string name="mobile_data_warning_summary">Kuva hoiatus, kui kasutaja proovib värskendust alla laadida mobiilse andmesideühendusega</string>
-  <!-- Info section -->
-  <string name="extras_category_title">Lisad</string>
-  <string name="error_open_url">Brauseris URL-i avamine ebaõnnestus</string>
-  <string name="developer_info_title">Hooldaja</string>
-  <string name="donate_info_title">Anneta</string>
-  <string name="donate_info_summary">Toeta arengut</string>
-  <string name="website_info_title">Koduleht</string>
-  <string name="website_info_summary">Külasta meie kodulehte</string>
-  <string name="news_info_title">Uudised</string>
-  <string name="news_info_summary">Ole kursis uuenduste ja muude uudistega</string>
-  <string name="forum_info_title">Foorum</string>
-  <string name="forum_info_summary">Vaata foorumi postitusi</string>
-  <string name="addons_title">Lisandmoodulid</string>
-  <string name="addons_summary">Kasulikud failid</string>
-  <string name="addons_error">Lisandmoodulite loetelu laadimine ebaõnnestus</string>
   <!-- MD5 -->
   <string name="checking_md5">Faili terviklikkuse kontrollimine…</string>
   <string name="md5_failed_dialog_title">Faili terviklikkus</string>

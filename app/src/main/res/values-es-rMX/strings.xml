@@ -26,21 +26,6 @@
   <string name="unknown">Desconocido</string>
   <string name="mobile_data_warning_title">Advertencia de datos móviles</string>
   <string name="mobile_data_warning_summary">Mostrar una advertencia cuando el usuario intenta descargar una actualización utilizando los datos móviles</string>
-  <!-- Info section -->
-  <string name="extras_category_title">Extras</string>
-  <string name="error_open_url">Error al abrir la URL en el navegador</string>
-  <string name="developer_info_title">Mantenedor</string>
-  <string name="donate_info_title">Donar</string>
-  <string name="donate_info_summary">Apoyar el desarrollo</string>
-  <string name="website_info_title">Sitio web</string>
-  <string name="website_info_summary">Visite nuestro sitio web</string>
-  <string name="news_info_title">Noticias</string>
-  <string name="news_info_summary">Manténgase informado sobre las actualizaciones y otras noticias</string>
-  <string name="forum_info_title">Foro</string>
-  <string name="forum_info_summary">Ver publicaciones en el foro</string>
-  <string name="addons_title">Complementos</string>
-  <string name="addons_summary">Archivos útiles</string>
-  <string name="addons_error">Error al cargar la lista de complementos</string>
   <!-- MD5 -->
   <string name="checking_md5">Verificando la integridad del archivo…</string>
   <string name="md5_failed_dialog_title">Integridad del archivo</string>

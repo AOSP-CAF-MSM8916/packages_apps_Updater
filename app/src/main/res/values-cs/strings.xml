@@ -26,21 +26,6 @@
   <string name="unknown">Neznámé</string>
   <string name="mobile_data_warning_title">Upozornění mobilních dat</string>
   <string name="mobile_data_warning_summary">Zobrazit upozornění při pokusu uživatele o stažení aktualizace pomocí mobilních dat</string>
-  <!-- Info section -->
-  <string name="extras_category_title">Doplňky</string>
-  <string name="error_open_url">Nepodařilo se otevřít adresu URL v prohlížeči</string>
-  <string name="developer_info_title">Správce</string>
-  <string name="donate_info_title">Přispět</string>
-  <string name="donate_info_summary">Podpořte vývoj</string>
-  <string name="website_info_title">Webová stránka</string>
-  <string name="website_info_summary">Navštivte naše webové stránky</string>
-  <string name="news_info_title">Novinky</string>
-  <string name="news_info_summary">Zůstaňte informováni o aktualizacích a dalších novinkách</string>
-  <string name="forum_info_title">Fórum</string>
-  <string name="forum_info_summary">Zobrazit příspěvky ve fóru</string>
-  <string name="addons_title">Rozšíření</string>
-  <string name="addons_summary">Užitečné soubory</string>
-  <string name="addons_error">Nepovedlo se načíst seznam doplňků</string>
   <!-- MD5 -->
   <string name="checking_md5">Ověřování integrity souborů…</string>
   <string name="md5_failed_dialog_title">Integrita souboru</string>

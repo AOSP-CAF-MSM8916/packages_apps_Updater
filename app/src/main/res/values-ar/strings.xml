@@ -26,21 +26,6 @@
   <string name="unknown">غير معروف</string>
   <string name="mobile_data_warning_title">تحذير البيانات المتنقلة</string>
   <string name="mobile_data_warning_summary">أظهر التحذير عندما يحاول المستخدم تحميل التحديث عبر إستخدام شبكة البيانات المتنقلة</string>
-  <!-- Info section -->
-  <string name="extras_category_title">إضافات</string>
-  <string name="error_open_url">فشل فتح الـ URL عبر المتصفح</string>
-  <string name="developer_info_title">المشرف</string>
-  <string name="donate_info_title">التبرع</string>
-  <string name="donate_info_summary">إدعم المطور</string>
-  <string name="website_info_title">الموقع</string>
-  <string name="website_info_summary">زر موقعنا</string>
-  <string name="news_info_title">الأخبار</string>
-  <string name="news_info_summary">كن على إطلاع على آخر الأخبار والتحديثات</string>
-  <string name="forum_info_title">المنتدى</string>
-  <string name="forum_info_summary">عرض مشاركات المنتدى</string>
-  <string name="addons_title">إضافات</string>
-  <string name="addons_summary">ملفات مفيدة</string>
-  <string name="addons_error">حدث خطأ في تحميل قائمة الإضافات</string>
   <!-- MD5 -->
   <string name="checking_md5">جار التحقق من سلامة الملف…</string>
   <string name="md5_failed_dialog_title">سلامة الملف</string>

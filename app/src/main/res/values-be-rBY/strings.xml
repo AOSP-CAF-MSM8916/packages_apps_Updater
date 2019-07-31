@@ -26,21 +26,6 @@
   <string name="unknown">Невядома</string>
   <string name="mobile_data_warning_title">Папярэджанне аб мабільных дадзеных</string>
   <string name="mobile_data_warning_summary">Паказваць папярэджанне, калі карыстальнік спрабуе спампаваць абнаўленне праз мабільныя дадзеныя</string>
-  <!-- Info section -->
-  <string name="extras_category_title">Дапаўненні</string>
-  <string name="error_open_url">Не атрымалася адкрыць спасылку</string>
-  <string name="developer_info_title">Суправаджальнік</string>
-  <string name="donate_info_title">Ахвяраваць</string>
-  <string name="donate_info_summary">Падтрымаць распрацоўку</string>
-  <string name="website_info_title">Вэб-сайт</string>
-  <string name="website_info_summary">Наведайце наш сайт</string>
-  <string name="news_info_title">Навіны</string>
-  <string name="news_info_summary">Сачыце за абнаўленнямі і іншымі навінамі</string>
-  <string name="forum_info_title">Форум</string>
-  <string name="forum_info_summary">Паглядзець паведамленні на форуме</string>
-  <string name="addons_title">Дапаўненні</string>
-  <string name="addons_summary">Карысныя файлы</string>
-  <string name="addons_error">Памылка пры ладаванні спісу дадаткаў</string>
   <!-- MD5 -->
   <string name="checking_md5">Праверка цэласнасці файла…</string>
   <string name="md5_failed_dialog_title">Цэласнасць файла</string>

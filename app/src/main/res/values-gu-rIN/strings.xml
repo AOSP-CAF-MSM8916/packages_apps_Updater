@@ -26,21 +26,6 @@
   <string name="unknown">અજાણ્યું</string>
   <string name="mobile_data_warning_title">મોબાઇલ ડેટા ચેતવણી</string>
   <string name="mobile_data_warning_summary">વપરાશકર્તા જ્યારે મોબાઇલ ડેટા મારફતે અપડેટ ડાઉનલોડ કરવાનો પ્રયાસ કરે ત્યારે ચેતવણી દર્શાવો</string>
-  <!-- Info section -->
-  <string name="extras_category_title">વધારાનું</string>
-  <string name="error_open_url">બ્રાઉઝરમાં URL ખોલવામાં નિષ્ફળ</string>
-  <string name="developer_info_title">જાળવનાર</string>
-  <string name="donate_info_title">બક્ષિસ આપો</string>
-  <string name="donate_info_summary">વિકાસને સપોર્ટ કરો</string>
-  <string name="website_info_title">વેબસાઇટ</string>
-  <string name="website_info_summary">અમારી વેબસાઇટની મુલાકાત લો</string>
-  <string name="news_info_title">સમાચાર</string>
-  <string name="news_info_summary">અપડેટ્સ અને અન્ય સમાચાર વિશે જાણકાર રહો</string>
-  <string name="forum_info_title">ફોરમ</string>
-  <string name="forum_info_summary">ફોરમ પોસ્ટ્સ જુઓ</string>
-  <string name="addons_title">એડ-ઑન્સ</string>
-  <string name="addons_summary">ઉપયોગી ફાઇલો</string>
-  <string name="addons_error">ઍડ-ઑન્સ સૂચિ લોડ કરવામાં નિષ્ફળ</string>
   <!-- MD5 -->
   <string name="checking_md5">ફાઇલ સંકલિતતા ચકાસી રહી છે…</string>
   <string name="md5_failed_dialog_title">ફાઇલ સંકલિતતા</string>

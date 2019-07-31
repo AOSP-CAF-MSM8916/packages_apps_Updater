@@ -26,21 +26,6 @@
   <string name="unknown">ناشناخته</string>
   <string name="mobile_data_warning_title">هشدار مصرف داده سیم‌کارت</string>
   <string name="mobile_data_warning_summary">هنگامی که کاربر سعی در بارگیری بسته به‌روزرسانی از طریق داده سیم‌کارت را دارد، هشدار بده</string>
-  <!-- Info section -->
-  <string name="extras_category_title">افزونه‌ها</string>
-  <string name="error_open_url">باز کردن آدرس در مرورگر ناموفق بود</string>
-  <string name="developer_info_title">برقرار نگه‌دارنده</string>
-  <string name="donate_info_title">کمک مالی</string>
-  <string name="donate_info_summary">از توسعه رام حمایت کنید</string>
-  <string name="website_info_title">وب‌سایت</string>
-  <string name="website_info_summary">از وب‌سایت ما دیدن کنید</string>
-  <string name="news_info_title">اخبار</string>
-  <string name="news_info_summary">همیشه از به‌روز‌رسانی‌ها و اخبار آگاه بمانید</string>
-  <string name="forum_info_title">انجمن</string>
-  <string name="forum_info_summary">نمایش پست‌های انجمن</string>
-  <string name="addons_title">افزونه‌ها</string>
-  <string name="addons_summary">فایل‌های کاربردی</string>
-  <string name="addons_error">بارگذاری فهرست افزونه‌ها ناموفق بود</string>
   <!-- MD5 -->
   <string name="checking_md5">در حال بررسی سلامت فایل…</string>
   <string name="md5_failed_dialog_title">سلامت فایل</string>

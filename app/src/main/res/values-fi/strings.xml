@@ -26,21 +26,6 @@
   <string name="unknown">Tuntematon</string>
   <string name="mobile_data_warning_title">Tiedon käyttö varoitus</string>
   <string name="mobile_data_warning_summary">Näytä varoitus kun käyttäjä yrittää imuroida mobiili liittymästä</string>
-  <!-- Info section -->
-  <string name="extras_category_title">Ylijäämä tietoa</string>
-  <string name="error_open_url">URL avaaminen selaimessa epäonnistui</string>
-  <string name="developer_info_title">Ylläpitäjä</string>
-  <string name="donate_info_title">Lahjoita</string>
-  <string name="donate_info_summary">Tue kehitystä</string>
-  <string name="website_info_title">Verkkosivusto</string>
-  <string name="website_info_summary">Käy verkkosivuillamme</string>
-  <string name="news_info_title">Uutiset</string>
-  <string name="news_info_summary">Tietoa päivityksistä ja muista uutisista</string>
-  <string name="forum_info_title">Foorumi</string>
-  <string name="forum_info_summary">Näytä foorumin postaukset</string>
-  <string name="addons_title">Lisäosat</string>
-  <string name="addons_summary">Hyödylliset tiedostot</string>
-  <string name="addons_error">Lisäosien listan lataaminen epäonnistui</string>
   <!-- MD5 -->
   <string name="checking_md5">Tarkistetaan tiedoston Md5…</string>
   <string name="md5_failed_dialog_title">Tiedoston eheys</string>

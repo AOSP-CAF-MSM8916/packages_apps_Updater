@@ -26,21 +26,6 @@
   <string name="unknown">Неизвестно</string>
   <string name="mobile_data_warning_title">Предупреждение за мобилни данни</string>
   <string name="mobile_data_warning_summary">Показва предупреждение, когато потребителят се опитва да изтеглите актуализация чрез мобилни данни</string>
-  <!-- Info section -->
-  <string name="extras_category_title">Екстри</string>
-  <string name="error_open_url">Неуспешно отваряне на URL в браузъра</string>
-  <string name="developer_info_title">Отговорник</string>
-  <string name="donate_info_title">Даряване</string>
-  <string name="donate_info_summary">Подкрепете разработката</string>
-  <string name="website_info_title">Уебсайт</string>
-  <string name="website_info_summary">Посетете нашия уебсайт</string>
-  <string name="news_info_title">Новини</string>
-  <string name="news_info_summary">Бъдете информирани за актуализации и други новини</string>
-  <string name="forum_info_title">Форум</string>
-  <string name="forum_info_summary">Преглед на публикации във форума</string>
-  <string name="addons_title">Добавки</string>
-  <string name="addons_summary">Полезни файлове</string>
-  <string name="addons_error">Неуспешно зареждане на списък на добавките</string>
   <!-- MD5 -->
   <string name="checking_md5">Проверка на целостта на файла…</string>
   <string name="md5_failed_dialog_title">Цялост на файла</string>
